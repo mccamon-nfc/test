@@ -1,0 +1,8 @@
+- member: Apple, Inc
+  domain: apple.com
+  level: Sponsor
+  discount: 100
+- member: Limestone Partners LLC
+  domain: mccamon.org
+  level: Adopter
+  discount: 0
